@@ -1,4 +1,4 @@
-# Want to become and pentester and have no idea where to start ? 
+# Want to become and pentester and have no idea where to start.
 i always learn by doing stuff, so most of the links will be hands-on/practical oriented courses 
  (here i'll save all my docs/links)
 
