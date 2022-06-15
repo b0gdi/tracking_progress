@@ -3,7 +3,7 @@ i always learn by doing stuff, so most of the links will be hands-on/practical o
  (here i'll save all my docs/links)
 
 ## Basics of webdev
- u need to understand how all this stuff works, especially backend
+need to understand how all this stuff works, especially backend
 
 First of all:
 #### HTML&CSS ~ 3.8h
