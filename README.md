@@ -10,6 +10,9 @@ First of all:
  - https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G&index=1
 #### REACT ~ 3.1h
  - https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
+
+
+ ## Basics of automation
 #### Python Automation
  - https://www.youtube.com/watch?v=M-CoVBK_bLE&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW&index=1
 
