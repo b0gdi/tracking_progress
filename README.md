@@ -2,6 +2,8 @@
 i always learn by doing stuff, so most of the links will be hands-on/practical oriented courses 
  (here i'll save all my docs/links)
 
+## Workflow
+ - ## Basics of webdev
 ## Basics of webdev
 need to understand how all this stuff works, especially backend
 
